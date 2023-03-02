@@ -5,12 +5,11 @@ function code = genBarkerCode(N)
 %   INPUT:
 %       length: Length of Barker code to generate. If invalid length is given,
 %           NaN is returned. Valid lengths include 3, 5, 7, 11, 13.
-%
 %   OUTPUT: 
 %       code: A row vector of either 1 or -1 corresponding to the Barker
 %           code defined by the input length.
 %
-%   Copyright 2021 Emelina Vienneau (emelina@vienneau.io)
+%   Copyright 2023 Emelina Vienneau (emelina@vienneau.io)
 
 if N == 3
     code = [1, 1, -1];

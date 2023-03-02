@@ -15,12 +15,11 @@ function decodedData = pulseCompress(data, decodingFilter, fs, fsUpsamp)
 %       fsUpsamp: The sampling frequency in Hz at which to perform the
 %           decoding. Generally fsUpsamp = fs, but if a higher sampling
 %           frequency is desired, it should be an integer multiple of fs. 
-%
 %   OUTPUT: 
 %       decodedData: The decoded data with its original sampling frequency 
 %           and size.
 %
-%   Copyright 2021 Emelina Vienneau (emelina@vienneau.io)
+%   Copyright 2023 Emelina Vienneau (emelina@vienneau.io)
 
 if fs ~= fsUpsamp
     L = length(data);
