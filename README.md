@@ -3,8 +3,7 @@ This repository provides basic source code in MATLAB to implement compound Barke
 filtering for ultrasound imaging. An example script demonstrates basic usage of the functions. In addition, a function 
 to generate the pulse code description of a tri-state coded excitation waveform is provided for programming the 
 transmit waveform of the Verasonics Vantage system. No Verasonics code itself is provided. This repository accompanies 
-an article described below. A supplemental file that accompanies the article is also included in this repository
-temporarily until it is added to IEEE Xplore. 
+an article described below. A supplemental file that accompanies the article is also included in this repository (also available on IEEE Xplore). 
 
 ## Copyright 
 Copyright 2023 Emelina Vienneau
@@ -15,7 +14,7 @@ This repository is provided without a license which means that the default copyr
 Please contact Emelina Vienneau at emelina@vienneau.io for any questions or concerns.
 
 ## Citation
-This repository accompanies an article currently in press at IEEE Transactions on Medical Imaging 
+This repository accompanies an article pubilshed in IEEE Transactions on Medical Imaging 
 ([link](https://ieeexplore.ieee.org/document/10105935)). If you find this code useful in your work, please include the 
 following citation in your work: 
 
