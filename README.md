@@ -17,15 +17,15 @@ Please contact Emelina Vienneau at emelina@vienneau.io for any questions or conc
 ## Citation
 This repository accompanies an article currently in press at IEEE Transactions on Medical Imaging 
 ([link](https://ieeexplore.ieee.org/document/10105935)). If you find this code useful in your work, please include the 
-following citation in your work (to be updated upon full publication): 
+following citation in your work: 
 
 ```
 @article{Vienneau2023,
   doi = {10.1109/TMI.2023.3269022},
   year = {2023},
-  volume = {},
-  number = {},
-  pages = {},
+  volume = {42},
+  number = {10},
+  pages = {2886--2898},
   author = {Emelina P. Vienneau and Brett C. Byram},
   title = {A Coded Excitation Framework for High SNR Transcranial Ultrasound Imaging},
   journal = {IEEE Transactions on Medical Imaging}
